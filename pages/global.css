@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-figtree: Figtree;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-sm: 14px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-whitesmoke-100: #f2f3f6;
+  --color-white: #fff;
+  --color-gray-100: #8c8c8c;
+  --color-gray-200: #757575;
+  --color-gray-300: #141a23;
+  --color-gray-400: #131923;
+  --color-aliceblue-100: #eef2ff;
+  --color-darkslategray: #374151;
+  --color-lightslategray: #8a8db4;
+  --color-sandybrown: #ffba5e;
+  --color-mediumslateblue: rgba(54, 69, 225, 0.61);
+
+  /* Gaps */
+  --gap-6xl: 25px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-base: 16px;
+  --br-13xl: 32px;
+  --br-33xl: 52px;
+}

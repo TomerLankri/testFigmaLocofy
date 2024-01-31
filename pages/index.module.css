@@ -1,0 +1,360 @@
+.addTemplateTo {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 121.5px);
+  font-weight: 500;
+}
+.addTemplateToProjectWrapper {
+  position: absolute;
+  top: calc(50% - 28px);
+  left: 1225px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-sandybrown);
+  width: 293px;
+  height: 56px;
+  overflow: hidden;
+}
+.editIcon {
+  top: 0;
+  left: 0;
+  width: 30px;
+  overflow: hidden;
+}
+.closeIcon,
+.editIcon,
+.editParent {
+  position: absolute;
+  height: 30px;
+}
+.closeIcon {
+  top: 0;
+  left: 48px;
+  width: 30px;
+  overflow: hidden;
+}
+.editParent {
+  top: 24px;
+  left: 494px;
+  width: 78px;
+  display: none;
+}
+.beginner {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 44px);
+  font-weight: 500;
+}
+.beginnerWrapper,
+.checkboxBaseIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.beginnerWrapper {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-mediumslateblue);
+  width: 128px;
+  height: 44px;
+}
+.checkboxBaseIcon {
+  border-radius: var(--br-33xl);
+  width: 27px;
+  height: 27px;
+}
+.checkboxBaseParent {
+  width: 137px;
+  position: relative;
+  height: 27px;
+}
+.models {
+  position: absolute;
+  top: 3px;
+  left: 36px;
+  font-weight: 600;
+}
+.checkboxBaseContainer,
+.checkboxBaseGroup {
+  width: 111px;
+  position: relative;
+  height: 27px;
+}
+.checkboxBaseContainer {
+  width: 121px;
+  font-family: var(--font-inter);
+}
+.groupDiv {
+  width: 139px;
+  position: relative;
+  height: 27px;
+}
+.groupParent {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.dashboardAnd4 {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  font-weight: 500;
+}
+.b2cSaasTemplate {
+  top: 0;
+  left: 0;
+}
+.b2cSaasTemplate,
+.saas,
+.tagsIcon {
+  position: absolute;
+}
+.saas {
+  top: 0;
+  left: 15px;
+  font-weight: 500;
+}
+.tagsIcon {
+  top: 3px;
+  left: 0;
+  width: 12px;
+  height: 11px;
+  overflow: hidden;
+}
+.groupWrapper,
+.saasParent {
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  width: 47px;
+  height: 17px;
+}
+.groupWrapper {
+  top: 4px;
+  left: 241px;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 61px;
+  height: 24px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+}
+.b2cSaasTemplateParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 302px;
+  height: 31px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-400);
+}
+.dashboardAnd4SimpleModelsParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 668px;
+  height: 70px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.frameGroup,
+.frameParent {
+  position: absolute;
+  width: 668px;
+}
+.frameGroup {
+  top: 67px;
+  left: 0;
+  height: 121px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+}
+.frameParent {
+  top: 22px;
+  left: 29px;
+  height: 188px;
+  color: var(--color-white);
+}
+.bank {
+  width: 1545px;
+  position: relative;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  height: 242px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.intermediate {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 64.5px);
+  font-weight: 500;
+}
+.intermediateWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aliceblue-100);
+  width: 165px;
+  height: 44px;
+  overflow: hidden;
+}
+.frameParent1 {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  width: 668px;
+  height: 121px;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+}
+.frameContainer {
+  position: absolute;
+  top: 22px;
+  left: 29px;
+  width: 668px;
+  height: 188px;
+  text-align: left;
+  color: var(--color-lightslategray);
+}
+.bankParent {
+  position: absolute;
+  top: 175px;
+  left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+}
+.allTemplates {
+  position: relative;
+  font-weight: 500;
+}
+.allTemplatesWrapper,
+.frameWrapper {
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  align-items: center;
+}
+.allTemplatesWrapper {
+  height: 40px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: var(--padding-9xs) var(--padding-base);
+}
+.frameWrapper {
+  width: 152px;
+  background-color: #eef1ff;
+  border: 1px solid #7c8bff;
+  justify-content: center;
+}
+.frameParent6,
+.frameWrapper,
+.frameWrapper1 {
+  display: flex;
+  flex-direction: row;
+}
+.frameWrapper1 {
+  width: 152px;
+  border-radius: var(--br-5xs);
+  background-color: #eee;
+  align-items: center;
+  justify-content: center;
+  color: #4f4f4f;
+}
+.frameParent6 {
+  position: absolute;
+  top: 121px;
+  left: 40px;
+  width: 320px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  color: #7281f5;
+}
+.iconChevron {
+  position: absolute;
+  top: 0;
+  left: 168.44px;
+  width: 22.52px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.title,
+.title1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 187.3px;
+}
+.title1 {
+  top: 1px;
+  left: 195.05px;
+  font-weight: 500;
+  width: 215.95px;
+}
+.iconChevronParent {
+  position: absolute;
+  top: 46px;
+  left: 47px;
+  width: 411px;
+  height: 22px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-300);
+}
+.dashboardChild {
+  position: absolute;
+  top: 87px;
+  left: 40px;
+  max-height: 100%;
+  width: 1543px;
+}
+.searchATemplate {
+  position: relative;
+}
+.dashboardInner,
+.searchATemplateWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dashboardInner {
+  position: absolute;
+  top: 117px;
+  left: 1154px;
+  border-radius: 12px;
+  background-color: var(--color-white);
+  width: 431px;
+  height: 48px;
+  padding: 0 8px 0 25px;
+  box-sizing: border-box;
+  color: #787878;
+}
+.dashboard {
+  width: 100%;
+  position: relative;
+  background-color: #f7f8fb;
+  height: 1246px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--font-figtree);
+}
